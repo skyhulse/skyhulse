@@ -1,4 +1,4 @@
-## Hello! My nameis Sky Hulse and I am an REU student intern studying vertical distribution of fine roots along a created forest edge.
+## Hello! My nameis Sky Hulse and I am an REU student intern studying vertical distribution of tree fine roots along a created forest edge.
 
 <!--
 **skyhulse/skyhulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
